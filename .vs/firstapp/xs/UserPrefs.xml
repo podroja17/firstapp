@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{20BA0065-1295-46B0-8E3A-A1E1582A91BA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstapp" expanded="True">
+            <Node name="firstapp" expanded="True">
+              <Node name="App.xaml" selected="True" />
+            </Node>
+            <Node name="firstapp.Android" expanded="True" />
+            <Node name="firstapp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>rng</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.firstapp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.firstapp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.firstapp.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/bin/Debug/netstandard2.0/firstapp.deps.json
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/bin/Debug/netstandard2.0/firstapp.dll
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/bin/Debug/netstandard2.0/ref/firstapp.dll
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/bin/Debug/netstandard2.0/firstapp.pdb
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/firstapp.csprojAssemblyReference.cache
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/firstapp.AssemblyInfoInputs.cache
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/firstapp.AssemblyInfo.cs
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/firstapp.csproj.CoreCompileInputs.cache
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/firstapp.dll
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/ref/firstapp.dll
+/Volumes/podroja17/Ročníky/4ITa/OofOS/firstapp/firstapp/obj/Debug/netstandard2.0/firstapp.pdb
