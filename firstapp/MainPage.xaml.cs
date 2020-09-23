@@ -13,6 +13,17 @@ namespace firstapp
         public MainPage()
         {
             InitializeComponent();
+
+            if(Device.RuntimePlatform == Device.iOS)
+            {
+                Padding = new Thickness(0, 20, 0, 0);
+            }
+            
+        }
+
+        void Button_Clicked(System.Object sender, System.EventArgs e)
+        {
+            DisplayAlert("Important alert", "Bonk!", "oof");    
         }
     }
 }
